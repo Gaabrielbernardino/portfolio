@@ -1,0 +1,23 @@
+[
+  {
+    "id": "bikcraft",
+    "nome": "Bikcraft",
+    "img": "./api/produtos/bikcraft/bikcraft.png"
+  },
+  {
+    "id": "brafe",
+    "nome": "Brafé",
+    "img": "./api/produtos/brafe/brafe.png"
+  },
+  {
+    "id": "nfs",
+    "nome": "NFS",
+    "img": "./api/produtos/nfs/nfs.png"
+  },
+  {
+    "id": "wildbeast",
+    "nome": "Wildbeast",
+    "img": "./api/produtos/wildbeast/wildbeast.png"
+  }
+  
+]
